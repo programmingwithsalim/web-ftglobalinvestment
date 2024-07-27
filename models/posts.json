@@ -1,0 +1,78 @@
+[
+    {
+        "_id": "1",
+        "banner": "images/posts/civil-engi-post1.jpg",
+        "category": "Civil Engineering",
+        "title": "Advancing Infrastructure with FT Global's Civil Engineering Expertise",
+        "date": "May 16, 2024",
+        "author": "FT Global Team",
+        "description": "Explore how FT Global Investment Limited is revolutionizing Civil Engineering in Ghana and beyond.",
+        "paragraphs": [
+            "FT Global Investment Limited is at the forefront of Civil Engineering innovation, delivering cutting-edge solutions for infrastructure development.",
+            "With a focus on quality and durability, our team of experts ensures that every project meets the highest standards of excellence.",
+            "From road construction to water and sanitation projects, FT Global's Civil Engineering expertise is transforming communities and driving progress.",
+            "Discover how we leverage advanced technologies and sustainable practices to create infrastructure that stands the test of time."
+        ],
+        "images": [],
+        "tags": ["Civil Engineering", "Infrastructure Development", "Sustainable Practices"],
+        "keywords": ["FT Global Investment Limited", "Civil Engineering", "Infrastructure", "Innovation", "Sustainability"],
+        "comments": []
+    },
+    {
+        "_id": "2",
+        "banner": "images/posts/construction-mgt-post1.jpg",
+        "category": "Construction Management",
+        "title": "Unlocking Success Through Effective Construction Management",
+        "date": "May 15, 2024",
+        "author": "FT Global Team",
+        "description": "Discover how FT Global Investment Limited is redefining Construction Management for seamless project execution.",
+        "paragraphs": [
+            "At FT Global Investment Limited, we believe that effective Construction Management is key to project success.",
+            "With our meticulous planning, expert coordination, and commitment to quality, we ensure that every construction project is delivered on time and within budget.",
+            "From project planning to quality control, our comprehensive approach to Construction Management guarantees superior results and client satisfaction.",
+            "Join us as we delve into the strategies and best practices that make FT Global a leader in Construction Management."
+        ],
+        "images": [],
+        "tags": ["Construction Management", "Project Planning", "Quality Control"],
+        "keywords": ["FT Global Investment Limited", "Construction Management", "Project Execution", "Quality Assurance"],
+        "comments": []
+    },
+    {
+        "_id": "3",
+        "banner": "images/posts/real-estate-post-banner1.jpg",
+        "category": "Real Estate Development",
+        "title": "Building Tomorrow's Communities with FT Global's Real Estate Development",
+        "date": "May 14, 2024",
+        "author": "FT Global Team",
+        "description": "Explore how FT Global Investment Limited is shaping the future of real estate with innovative development projects.",
+        "paragraphs": [
+            "FT Global Investment Limited is committed to creating vibrant and sustainable communities through our Real Estate Development initiatives.",
+            "From residential complexes to commercial properties, we design and build spaces that enhance quality of life and drive economic growth.",
+            "Join us as we showcase some of our signature projects and discuss the principles of sustainable design and development that guide our work.",
+            "Discover how FT Global is reimagining real estate to meet the evolving needs of tomorrow's communities."
+        ],
+        "images": [],
+        "tags": ["Real Estate Development", "Sustainable Design", "Community Building"],
+        "keywords": ["FT Global Investment Limited", "Real Estate Development", "Sustainability", "Community Development"],
+        "comments": []
+    },
+    {
+        "_id": "4",
+        "banner": "images/posts/property-mgt-post1.jpg",
+        "category": "Property Management",
+        "title": "Elevating Property Management Standards with FT Global",
+        "date": "May 13, 2024",
+        "author": "FT Global Team",
+        "description": "Learn how FT Global Investment Limited is raising the bar in property management, ensuring optimal value and tenant satisfaction.",
+        "paragraphs": [
+            "At FT Global Investment Limited, we understand the importance of effective property management in maximizing asset value and enhancing tenant experience.",
+            "With our full-service property management solutions, we handle every aspect of property maintenance and tenant relations with professionalism and care.",
+            "Join us as we discuss our approach to property management and share insights on how we deliver exceptional results for property owners and tenants alike.",
+            "Discover why FT Global is the trusted partner for property owners seeking excellence in property management."
+        ],
+        "images": [],
+        "tags": ["Property Management", "Asset Value", "Tenant Satisfaction"],
+        "keywords": ["FT Global Investment Limited", "Property Management", "Tenant Relations", "Maintenance Services"],
+        "comments": []
+    }    
+]

@@ -1,0 +1,102 @@
+[
+    {   
+        "_id": 1,
+        "banner": "images/services/civil-engineering.jpg",
+        "category": "Civil Engineering",
+        "title": "Leading in Civil Engineering",
+        "description": "FT Global Investment Limited specializes in Civil Engineering, offering innovative solutions and comprehensive services to meet the diverse needs of clients in Ghana.",
+        "images": [],
+        "strategy": "Adopting modern technologies and Total Quality Management, we ensure excellence in Civil Engineering projects, delivering durable and high-quality infrastructure.",
+        "keyFeatures": [
+            "Advanced Civil Engineering solutions.",
+            "Professional expertise and experience.",
+            "Commitment to quality and durability.",
+            "Timely and cost-effective project delivery."
+        ],
+        "quote": "Our commitment to excellence in Civil Engineering stands as a testament to our dedication to quality and innovation.",
+        "author_quote": "FT Global Investment Limited",
+        "precautions": "Ensure compliance with all safety and regulatory standards.",
+        "intelligence": "Collaboration with industry experts and use of modern technologies to optimize engineering solutions.",
+        "specializations": "Infrastructure development, Road construction, Water and sanitation projects, Structural engineering"
+    },
+    {
+        "_id": 2,
+        "banner": "images/services/construction-management.jpg",
+        "category": "Construction Management",
+        "title": "Excellence in Construction Management",
+        "description": "FT Global Investment Limited provides top-tier Construction Management services, overseeing projects from inception to completion with a focus on quality, efficiency, and client satisfaction.",
+        "images": [],
+        "strategy": "Utilizing a Total Quality Management approach, we ensure meticulous planning, coordination, and control of construction processes to deliver superior results.",
+        "keyFeatures": [
+            "Comprehensive project oversight.",
+            "Expert coordination and control.",
+            "Focus on quality and client satisfaction.",
+            "Efficient and timely project delivery."
+        ],
+        "quote": "Effective Construction Management is the cornerstone of successful projects, ensuring every detail is meticulously planned and executed.",
+        "author_quote": "FT Global Investment Limited",
+        "precautions": "Maintain stringent oversight and adherence to project timelines and budgets.",
+        "intelligence": "Integration of advanced project management tools and techniques to enhance efficiency and communication.",
+        "specializations": "Project planning, Construction coordination, Quality control, Budget management"
+    },
+    {
+        "_id": 3,
+        "banner": "images/services/real-estate-development.jpg",
+        "category": "Real Estate Development",
+        "title": "Innovating Real Estate Development",
+        "description": "FT Global Investment Limited excels in Real Estate Development, creating high-quality residential and commercial properties that meet the evolving needs of the market.",
+        "images": [],
+        "strategy": "By incorporating modern design principles and sustainable practices, we deliver real estate projects that stand the test of time.",
+        "keyFeatures": [
+            "Innovative property development.",
+            "Sustainable design and construction.",
+            "High-quality residential and commercial properties.",
+            "Market-driven development strategies."
+        ],
+        "quote": "Our real estate projects are designed to blend modernity with sustainability, ensuring value and longevity.",
+        "author_quote": "FT Global Investment Limited",
+        "precautions": "Conduct thorough market research and environmental impact assessments.",
+        "intelligence": "Utilizing market insights and advanced design technologies to create properties that cater to current and future demands.",
+        "specializations": "Residential development, Commercial development, Sustainable construction, Market analysis"
+    },
+    {
+        "_id": 4,
+        "banner": "images/services/property-management.jpg",
+        "category": "Property Management",
+        "title": "Premier Property Management Services",
+        "description": "FT Global Investment Limited offers comprehensive Property Management services, ensuring the optimal operation and maintenance of residential and commercial properties.",
+        "images": [],
+        "strategy": "Employing a client-centric approach, we provide tailored property management solutions that enhance property value and tenant satisfaction.",
+        "keyFeatures": [
+            "Full-service property management.",
+            "Client-centric management approach.",
+            "Enhancement of property value.",
+            "High tenant satisfaction rates."
+        ],
+        "quote": "Effective property management ensures that properties are well-maintained, tenants are satisfied, and property values are maximized.",
+        "author_quote": "FT Global Investment Limited",
+        "precautions": "Implement proactive maintenance and regular inspections.",
+        "intelligence": "Leveraging technology for efficient property management and tenant communication.",
+        "specializations": "Residential property management, Commercial property management, Maintenance services, Tenant relations"
+    },
+    {
+        "_id": 5,
+        "banner": "images/services/construction-service.jpg",
+        "category": "Construction Services",
+        "title": "Engineering Construction Solutions",
+        "description": "FT Global Investment Limited offers comprehensive engineering construction services tailored to meet the diverse needs of clients across various industries.",
+        "images": [],
+        "strategy": "Utilizing advanced technologies and industry best practices, we ensure efficient project execution and superior quality outcomes.",
+        "keyFeatures": [
+            "Expert project planning and management",
+            "Skilled workforce and specialized equipment",
+            "Strict adherence to safety and regulatory standards",
+            "Timely and cost-effective project delivery"
+        ],
+        "quote": "Our engineering construction solutions are built on a foundation of excellence and innovation, driving success for our clients.",
+        "author_quote": "FT Global Investment Limited",
+        "precautions": "Continuous monitoring of project progress and proactive risk management to mitigate potential challenges.",
+        "intelligence": "Leveraging data analytics and predictive modeling to optimize project performance and resource allocation.",
+        "specializations": "Infrastructure development, Building construction, Road and bridge construction, Industrial construction"
+    }
+]

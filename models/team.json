@@ -1,0 +1,85 @@
+[
+    {
+        "fullName": "Mohammed Issah",
+        "position": "Managing Director",
+        "avatar": "images/resource/team.png"
+    },
+    {
+        "fullName": "Reuben Kweinortey Akumienu",
+        "position": "Project Manager",
+        "qualification": "Building Technology (HND), Project Management (BSc)",
+        "avatar": "images/resource/team.png"
+    },
+    {
+        "fullName": "Seth Acquah-Gyan",
+        "position": "Contract Manager and Senior Quantity Surveyor",
+        "qualification": "Building Technology (BSc), Project Management (MSc)",
+        "avatar": "images/resource/team.png"
+    },
+    {
+        "fullName": "Theobald Ayew Tetteh",
+        "position": "Quantity Surveyor",
+        "qualification": "Construction Management (BSc), Project Management (MSc)",
+        "avatar": "images/resource/team.png"
+    },
+    {
+        "fullName": "David Turkson Micah",
+        "position": "Site Engineer",
+        "qualification": "Building Technology (HND), Construction Management (BSc)",
+        "avatar": "images/resource/team.png"
+    },
+    {
+        "fullName": "Emmanuel Y. Agbokah",
+        "position": "Civil Engineer",
+        "qualification": "Civil Engineer (HND)",
+        "avatar": "images/resource/team.png"
+    },
+    {
+        "fullName": "Theophilus A. Armah",
+        "position": "Services Engineer",
+        "qualification": "Mechanical Engineering (BSc), Building Services Engineering (MSc) MGhIE",
+        "avatar": "images/resource/team.png"
+    },
+    {
+        "fullName": "Eric Ofosu Kesse",
+        "position": "Geomatic Engineer",
+        "qualification": "Geomatic (BSc)",
+        "avatar": "images/resource/team.png"
+    },
+    {
+        "fullName": "Norbert Kedzie",
+        "position": "Health and Safety",
+        "qualification": "Environmental Science (BSc)",
+        "avatar": "images/resource/team.png"
+    },
+    {
+        "fullName": "Mohammed Seidu",
+        "position": "Supervisor",
+        "qualification": "Building Technology (HND)",
+        "avatar": "images/resource/team.png"
+    },
+    {
+        "fullName": "Agbeko Dorgbetor",
+        "position": "Supervisor",
+        "qualification": "CTC III",
+        "avatar": "images/resource/team.png"
+    },
+    {
+        "fullName": "Dogbe Seth Agbagah",
+        "position": "Supervisor",
+        "qualification": "CTC III",
+        "avatar": "images/resource/team.png"
+    },
+    {
+        "fullName": "Francis Kuetuadu Kojo",
+        "position": "Supervisor",
+        "qualification": "Building Technology (HND)",
+        "avatar": "images/resource/team.png"
+    },
+    {
+        "fullName": "Stephen Otoo",
+        "position": "Supervisor",
+        "qualification": "Civil Engineer (HND)",
+        "avatar": "images/resource/team.png"
+    }
+]
