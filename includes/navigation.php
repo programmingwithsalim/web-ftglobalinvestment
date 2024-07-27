@@ -35,7 +35,7 @@
                                 
                                 <div class="collapse navbar-collapse clearfix" id="navbarSupportedContent">
                                     <ul class="navigation clearfix">
-                                        <li class=""><a href="/">Home</a></li>
+                                        <li class=""><a href="index">Home</a></li>
                                         <li class="dropdown current"><a href="#">About</a>
                                             <ul>
                                                 <li><a href="about">About Us</a></li>

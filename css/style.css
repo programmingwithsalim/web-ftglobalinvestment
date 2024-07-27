@@ -1396,7 +1396,7 @@ img{
 
 .header-style-four .header-lower{
 	position: relative;
-	background-color: rgba(0,0,0,0.40);
+	background-color: rgba(255,255,255,0.70);
 }
 
 .header-style-four .nav-outer{
@@ -1408,7 +1408,7 @@ img{
 }
 
 .header-style-four .main-menu .navigation > li > a{
-	color: #ffffff;
+	color: #000;
 }
 
 .header-style-four .search-box-outer{
@@ -1527,6 +1527,7 @@ img{
 .header-style-six{
 	position: absolute;
    	left: 0;
+	background-color: #fff;
 }
   
 .header-style-six .outer-container{
@@ -1589,7 +1590,7 @@ img{
   	position: fixed;
   	left: 0;
   	width: 100%;
-  	background-color: rgba(0,0,0,0.90);
+  	background-color: rgba(255,255,255,0.90);
   	border-bottom: 1px solid transparent;
 }
 
@@ -1636,7 +1637,7 @@ img{
 	border-left: 1px solid rgba(255,255,255,0.40);
 	font-size: 16px;
 	line-height: 30px;
-	color: #ffffff;
+	color: #000;
 	font-weight: 400;
 }
 
@@ -1661,7 +1662,7 @@ img{
 }
 
 .header-style-six .contact-info li a{
-	color: #ffffff;
+	color: #000;
 	transition: all 300ms ease;
 }
 
@@ -1684,7 +1685,7 @@ img{
 	font-size: 16px;
 	color: #ffa500;
 	font-weight: 400;
-	background-color: #000000;
+	background-color: #009fe9;
 	cursor: pointer;
 	-webkit-transition: all 300ms ease;
 	-moz-transition: all 300ms ease;
@@ -2348,7 +2349,7 @@ header-style-seven .nav-toggler:hover{
 	top: 0;
 	width: 100%;
 	height: auto;
-	background-color: rgba(0,0,0,0.80);
+	background-color: rgba(255,255,255,0.80);
 }
 
 .header-style-four.fixed-header .logo-box .logo{

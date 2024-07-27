@@ -5,7 +5,7 @@ const pageFunctions = {
   '/blog': posts,
   '/team': team,
   '/projects': projects,
-  '/': homePage
+  '/index': homePage
 };
 
 for (const [path, func] of Object.entries(pageFunctions)) {
@@ -36,6 +36,31 @@ function homePage() {
       }
     })
 
+  fetch("models/ongoing_projects.json")
+    .then(response => response.json())
+    .then(ongoingProjects => {
+      ongoingProjects.forEach(project => loadOngoingProject(project))
+
+      function loadOngoingProject(project) {
+        let ongoing_el = document.querySelector("[data-ongoing]")
+
+        $(ongoing_el).owlCarousel('add',
+          `<div class="project-block-two">
+            <div class="image-box">
+                <figure class="image"><img src=${project.imgUrl} alt=""></figure>
+            </div>
+            <div class="info-box">
+                <div class="inner-box">
+                    <span class="title">${project.category}</span>  
+                    <h3>${project.title}</h3>
+                    <div class="text">${project.description}</div>
+                    <div class="link-box"><a href="projects">View Project</a></div>
+                </div> 
+            </div>
+          </div>`
+        )
+      }
+    })
 
   // Blog & News Section
   fetch("models/posts.json")

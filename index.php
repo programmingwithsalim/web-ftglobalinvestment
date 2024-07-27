@@ -73,7 +73,7 @@
     <!-- End Specialize Section -->
 
     <!-- Fun Fact And Features -->
-    <section class="fun-fact-and-features"  style="background-image: url(images/background/3.jpg);">
+    <section class="fun-fact-and-features"  style="background-image: url(images/background/4.jpg);">
         <div class="outer-box">
             <div class="auto-container">
                 <!-- Fact Counter -->
@@ -82,7 +82,7 @@
                         <!--Column-->
                         <div class="counter-column col-lg-3 col-md-6 col-sm-12 wow fadeInUp">
                             <div class="count-box">
-                                <div class="count"><span class="count-text" data-speed="5000" data-stop="21">0</span>+</div>
+                                <div class="count"><span class="count-text" data-speed="5000" data-stop="10">0</span>+</div>
                                 <h4 class="counter-title">Years of <br>Experience</h4>
                             </div>
                         </div>
@@ -157,53 +157,11 @@
                     <span class="float-text">Project</span>
                     <h2>On Going Project</h2>
                 </div>
-                <div class="link-box"><a href="projects.html">All Project <i class="fa fa-long-arrow-right"></i></a></div>
+                <div class="link-box"><a href="projects">All Project <i class="fa fa-long-arrow-right"></i></a></div>
             </div>
-            <div class="projects-carousel-two owl-carousel owl-theme">
+            <div data-ongoing class="projects-carousel-two owl-carousel owl-theme">
                 <!-- Project Block -->
-                <div class="project-block-two">
-                        <div class="image-box">
-                        <figure class="image"><img src="images/resource/project-1.jpeg" alt=""></figure>
-                    </div>
-                    <div class="info-box">
-                        <div class="inner-box">
-                            <span class="title">OFFICE</span>  
-                            <h3>FT Global Office Complex</h3>
-                            <div class="text">Our new proposed offices currently under construction and will completed very soon.</div>
-                            <div class="link-box"><a href="project-detail.html">View Project</a></div>
-                        </div> 
-                    </div>
-                </div>
-
-                <!-- Project Block -->
-                <div class="project-block-two">
-                    <div class="image-box">
-                        <figure class="image"><img src="images/resource/project-2.jpeg" alt=""></figure>
-                    </div>
-                    <div class="info-box">
-                        <div class="inner-box">
-                            <span class="title">OFFICE</span>  
-                            <h3>FT Global Office Complex</h3>
-                            <div class="text">Our new proposed offices currently under construction and will completed very soon.</div>
-                            <div class="link-box"><a href="project-detail.html">View Project</a></div>
-                        </div> 
-                    </div>
-                </div>
-
-                <!-- Project Block -->
-                <div class="project-block-two">
-                    <div class="image-box">
-                        <figure class="image"><img src="images/resource/project-3.jpeg" alt=""></figure>
-                    </div>
-                    <div class="info-box">
-                        <div class="inner-box">
-                            <span class="title">OFFICE</span>  
-                            <h3>FT Global Office Complex</h3>
-                            <div class="text">Our new proposed offices currently under construction and will completed very soon.</div>
-                            <div class="link-box"><a href="project-detail.html">View Project</a></div>
-                        </div> 
-                    </div>
-                </div>
+                
             </div>
         </div>
     </section>
@@ -274,22 +232,22 @@
     <section class="products-section">
         <div class="auto-container">
             <div class="sec-title">
-                <span class="float-text">ProDuct</span>
-                <h2>General Goods</h2>
+                <!-- <span class="float-text">ProDuct</span>
+                <h2>General Goods</h2> -->
             </div>
             <div class="row">
-                <div class="title-column col-lg-3 col-md-12 col-sm-12">
+                <!-- <div class="title-column col-lg-3 col-md-12 col-sm-12">
                     <div class="inner-column">
                         <h4>We offer the best on the market</h4>
                         <div class="text">Checkou the following products to find the one best suited for your needs.</div>
                         <div class="btn-box"><a href="services.html" class="theme-btn btn-style-one">More Product</a></div>
                     </div>
-                </div>
+                </div> -->
 
                 <div class="products-column col-lg-9 col-md-12 col-sm-12">
                     <div class="products-carousel owl-carousel owl-theme">
                         <!-- Product Block -->
-                        <div class="product-block">
+                        <!-- <div class="product-block">
                             <div class="inner-box">
                                 <div class="info-box">
                                     <h5 class="name">Product Title</h5>
@@ -299,10 +257,10 @@
                                     <figure class="image"><img src="" alt=""></figure>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <!-- Product Block -->
-                        <div class="product-block">
+                        <!-- <div class="product-block">
                             <div class="inner-box">
                                 <div class="info-box">
                                     <h5 class="name">Product Title</h5>
@@ -312,10 +270,10 @@
                                     <figure class="image"><img src="" alt=""></figure>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <!-- Product Block -->
-                        <div class="product-block">
+                        <!-- <div class="product-block">
                             <div class="inner-box">
                                 <div class="info-box">
                                     <h5 class="name">Product Title</h5>
@@ -325,10 +283,10 @@
                                     <figure class="image"><img src="" alt=""></figure>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <!-- Product Block -->
-                        <div class="product-block">
+                        <!-- <div class="product-block">
                             <div class="inner-box">
                                 <div class="info-box">
                                     <h5 class="name">Product Title</h5>
@@ -338,10 +296,10 @@
                                     <figure class="image"><img src="" alt=""></figure>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <!-- Product Block -->
-                        <div class="product-block">
+                        <!-- <div class="product-block">
                             <div class="inner-box">
                                 <div class="info-box">
                                     <h5 class="name">Product Title</h5>
@@ -351,10 +309,10 @@
                                     <figure class="image"><img src="" alt=""></figure>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <!-- Product Block -->
-                        <div class="product-block">
+                        <!-- <div class="product-block">
                             <div class="inner-box">
                                 <div class="info-box">
                                     <h5 class="name">Product Title</h5>
@@ -364,7 +322,7 @@
                                     <figure class="image"><img src="" alt=""></figure>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -373,7 +331,7 @@
     <!--End Products Section -->
 
     <!--Clients Section-->
-    <section class="clients-section style-two" style="background-image: url(images/background/7.jpg);">
+    <section class="clients-section style-two" style="">
         <div class="auto-container">
             <div class="sponsors-outer">
                 <!--Sponsors Carousel-->

@@ -116,7 +116,7 @@
     </div>
     
     
-        <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-arrow-circle-o-up"></span></div>
+        <div class="scroll-to-top scroll-to-target" onclick="window.scrollTo({ top: 0, behavior: 'smooth' });" data-target="html"><span class="fa fa-arrow-circle-o-up"></span></div>
         <script src="js/jquery.js"></script> 
         <script src="js/popper.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
